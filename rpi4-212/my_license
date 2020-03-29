@@ -1,0 +1,14 @@
+www-client/google-chrome google-chrome
+sys-kernel/linux-firmware linux-fw-redistributable no-source-code
+media-sound/logitechmediaserver-bin logitechmediaserver-bin
+media-sound/networkaudiod-bin Signalyst
+media-sound/RoonBridge roonlabs
+media-sound/hqplayerd-bin Signalyst
+app-benchmarks/rtapp custom
+net-misc/bubbleupnp-bin BubbleUPnP-Server
+media-libs/libgmpris Signalyst
+media-sound/hqplayer-bin Signalyst
+media-sound/hqplayer4desktop-bin Signalyst
+sys-boot/rpi4-firmware Broadcom raspberrypi-videocore-bin
+sys-boot/raspberrypi-firmware raspberrypi-videocore-bin
+media-sound/mac mac
