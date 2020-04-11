@@ -9,4 +9,5 @@ net-misc/bubbleupnp-bin BubbleUPnP-Server
 media-libs/libgmpris Signalyst
 media-sound/hqplayer-bin Signalyst
 media-sound/hqplayer4desktop-bin Signalyst
-media-sound/mac  mac
+net-p2p/resilio-sync all-rights-reserved
+media-sound/mac mac
