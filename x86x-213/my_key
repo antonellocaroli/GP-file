@@ -45,7 +45,6 @@ app-editors/sublime-text ~amd64
 app-admin/metalog ~amd64
 media-sound/hqplayer4desktop-bin ~amd64
 sys-fs/mtools ~amd64
-sys-apps/texinfo ~amd64
 media-sound/ympd ~amd64
 media-libs/alsa-lib ~amd64
 media-sound/alsa-utils ~amd64
@@ -54,5 +53,8 @@ sys-process/glances ~amd64
 net-libs/shairplay **
 media-sound/shairport-sync ~amd64
 media-sound/mympd ~amd64
+media-sound/jriver-bin ~amd64
+media-sound/qobuz-desktop-player-bin ~amd64
+media-sound/spotify ~amd64
 media-sound/sacd-extract ~amd64
 media-sound/spotifyd-bin ~amd64
