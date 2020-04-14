@@ -9,5 +9,7 @@ net-misc/bubbleupnp-bin BubbleUPnP-Server
 media-libs/libgmpris Signalyst
 media-sound/hqplayer-bin Signalyst
 media-sound/hqplayer4desktop-bin Signalyst
-net-p2p/resilio-sync all-rights-reserved
 media-sound/mac mac
+media-sound/jriver-bin Jriver,Inc.
+media-sound/qobuz-desktop-player-bin Qobuz
+media-sound/spotify Spotify
